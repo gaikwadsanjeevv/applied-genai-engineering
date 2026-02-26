@@ -44,6 +44,31 @@ Why need for both compiler and interpreter?
 #### Programming Paradigms.  
 - Procedural programming: This is a programming paradigm that focuses on writing procedures or routines that operate on data. It emphasizes the use of functions and procedures to break down a program into smaller, more manageable pieces. Examples of procedural programming languages include C, Fortran, and Pascal.  
 - Object-oriented programming: This is a programming paradigm that focuses on the use of objects, which are instances of classes, to represent data and behavior. It emphasizes the use of encapsulation, inheritance, and polymorphism to create reusable and modular code. Examples of object-oriented programming languages include Java, C++, and Python.  
-- Functional programming: This is a programming paradigm that focuses on the use of functions to create programs. It emphasizes the use of pure functions, which have no side effects and always return the same output for the same input, to create programs that are easier to reason about and test. Examples of functional programming languages include Haskell, Lisp, and Scala.  
+- Functional programming:(Support Mathematics functions) This is a programming paradigm that focuses on the use of functions to create programs. It emphasizes the use of pure functions, which have no side effects and always return the same output for the same input, to create programs that are easier to reason about and test. Examples of functional programming languages include Haskell, Lisp, and Scala. Due to it vast library python sy=upports many apps in statistics, machine learning, data science, etc.    
 - Scripting programming: This is a programming paradigm that focuses on writing small programs called scripts that automate tasks or perform specific functions. Scripting languages are often interpreted and provide a high level of abstraction, making them easy to use for tasks such as system administration, web development, and data analysis. Examples of scripting languages include Python, Perl, and Ruby.    
 - Modern programming languages often support multiple paradigms, allowing developers to choose the best approach for their specific use case. For example, Python supports procedural, object-oriented, functional, and scripting programming paradigms, making it a versatile language that can be used for a wide range of applications.  
+
+#### Python Libraries/Modules:  
+- NumPy: A library for numerical computing in Python that provides support for arrays, matrices, and mathematical functions.  
+- Pandas: A library for data manipulation and analysis in Python that provides support for data frames and series.  
+- Matplotlib: A library for data visualization in Python that provides support for creating a wide range of static, animated, and interactive visualizations.  
+- Scikit-learn: A library for machine learning in Python that provides support for a wide range of algorithms and tools for data preprocessing, model selection, and evaluation.  
+- TensorFlow: A library for machine learning and deep learning in Python that provides support for building and training neural networks.  
+- Flask: A micro web framework for Python that provides support for building web applications.  
+- Django: A high-level web framework for Python that provides support for building complex web applications.  
+- Requests: A library for making HTTP requests in Python that provides support for sending and receiving data over the web.  
+- Beautiful Soup: A library for web scraping in Python that provides support for parsing HTML and XML documents.  
+- PyTorch: A library for machine learning and deep learning in Python that provides support for building and training neural networks.  
+- OpenCV: A library for computer vision in Python that provides support for image and video processing.  
+- SQLAlchemy: A library for working with databases in Python that provides support for object-relational mapping (ORM) and SQL queries.  
+- Pillow: A library for image processing in Python that provides support for opening, manipulating, and saving image files.  
+- PyGame: A library for game development in Python that provides support for creating 2D games and multimedia applications. 
+- These are just a few examples of the many libraries and modules available in Python. The Python ecosystem is vast and constantly growing, with new libraries and frameworks being developed all the time to support a wide range of applications and use cases. Whether you're interested in data science, web development, machine learning, or any other field, there is likely a Python library or module that can help you achieve your goals.  
+- Desktop Application: PyQt, Tkinter, wxPython, Kivy, etc.  
+- Web Development: Flask, Django, Pyramid, etc.  
+- Data Science: NumPy, Pandas, Matplotlib, Seaborn, etc.  
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch, etc.  
+- Artificial Intelligence: TensorFlow, Keras, PyTorch, etc.  
+- Scientific Computing: SciPy, NumPy, Matplotlib, etc.
+- games: PyGame,Panda3D, Arcade, etc.  
+- Database: SQLAlchemy, PyMySQL, Psycopg2, etc.  
