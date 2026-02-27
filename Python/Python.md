@@ -72,3 +72,5 @@ Why need for both compiler and interpreter?
 - Scientific Computing: SciPy, NumPy, Matplotlib, etc.
 - games: PyGame,Panda3D, Arcade, etc.  
 - Database: SQLAlchemy, PyMySQL, Psycopg2, etc.  
+
+#### Python DataType  
